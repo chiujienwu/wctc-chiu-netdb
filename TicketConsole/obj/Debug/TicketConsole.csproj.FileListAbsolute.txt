@@ -1,0 +1,6 @@
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\bin\Debug\TicketConsole.exe.config
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\bin\Debug\TicketConsole.exe
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\bin\Debug\TicketConsole.pdb
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\obj\Debug\TicketConsole.csprojAssemblyReference.cache
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\obj\Debug\TicketConsole.exe
+C:\Users\jerry\Source\Repos\wctc-chiu-netdb\TicketConsole\obj\Debug\TicketConsole.pdb
